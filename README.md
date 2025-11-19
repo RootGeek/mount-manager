@@ -256,12 +256,5 @@ Created with ❤️ from RootGeek for the Linux community
 
 **Note**: This script was developed and tested for Ubuntu 22.04 LTS, but should work on most Debian-based distributions.
 
-## 📞 Support
-
-For questions or problems:
-- Open an [Issue](https://github.com/your-username/network-drive-manager/issues)
-- Check the [FAQ](#-common-issues)
-
----
 
 **Happy Mounting! 🚀**
