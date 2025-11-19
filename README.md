@@ -245,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Created with ❤️ for the Linux community
+Created with ❤️ from RootGeek for the Linux community
 
 ## 🙏 Acknowledgments
 
